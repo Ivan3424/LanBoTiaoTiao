@@ -1,0 +1,29 @@
+﻿{
+	"version": 1530848726,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-2.1.1.min.js",
+		"images/bg_game.png",
+		"images/player-sheet0.png",
+		"images/player-sheet1.png",
+		"images/player-sheet2.png",
+		"images/block1-sheet0.png",
+		"images/block2-sheet0.png",
+		"images/block3-sheet0.png",
+		"images/block4-sheet0.png",
+		"images/move-sheet0.png",
+		"images/bg_block.png",
+		"images/bg_title.png",
+		"images/bg_start.png",
+		"images/start-sheet0.png",
+		"images/bg_hint.png",
+		"images/bg_click.png",
+		"images/ballon-sheet0.png",
+		"images/bg_over.png",
+		"images/bg_again.png",
+		"images/music-sheet0.png",
+		"images/music-sheet1.png",
+		"media/bgm.ogg"
+	]
+}
